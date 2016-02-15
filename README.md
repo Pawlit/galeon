@@ -1,2 +1,2 @@
 # galeon
-TODO: Short project description
+TODO: Github tutorial project, purely for learning purposes (for now)
